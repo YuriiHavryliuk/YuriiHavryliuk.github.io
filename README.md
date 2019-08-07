@@ -1,5 +1,5 @@
 # yuriihavryliuk.github.io
-<a href="https://mateacademy-fe-july.github.io/mogo-nov-team-1/src/">MOGO Template<a/><br>
+<a href="https://mateacademy-fe-study.github.io/mogo-nov-team-1/src/">MOGO Template<a/><br>
 <a href="https://yuriihavryliuk.github.io/test-mgid/docs">Test-MGID</a><br>
   <a href="https://yuriihavryliuk.github.io/test-TStech/docs/">Test-TStech</a><br>
 <a href="https://yuriihavryliuk.github.io/wild_template/src/">Wild Template<a/><br>
