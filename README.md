@@ -8,9 +8,9 @@
 <a href="https://yuriihavryliuk.github.io/footers/dist">FOOTERS UI</a><br>
 <a href="https://yuriihavryliuk.github.io/headers-nov-team/docs">HEADERS</a><br>
 <a href="https://yuriihavryliuk.github.io/form_ui/dist/">FORM UI</a><br>
-<a href="https://yuriihavryliuk.github.io/form-validation/docs/">FORM VALIDATION<a/>
-<a href="https://yuriihavryliuk.github.io/news-portal/build/index.html">News portal<a/>
- <a href="https://yuriihavryliuk.github.io/webpackReact/dist/">Digital Clock<a/>
+<a href="https://yuriihavryliuk.github.io/form-validation/docs/">FORM VALIDATION<a/><br>
+<a href="https://yuriihavryliuk.github.io/news-portal/build/index.html">News portal<a/><br>
+ <a href="https://yuriihavryliuk.github.io/webpackReact/dist/">Digital Clock<a/><br>
     <a href="https://yuriihavryliuk.github.io/phone-catalog/">Phone catalog<a/>
   
 
